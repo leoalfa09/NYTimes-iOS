@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NYTimes.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CB4666B4A3C6464BE78D1EBB597868278CA64E58</string>
+				<key>dateExpires</key>
+				<string>28/10/24</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>K62YS3AL2A.com.waseem.NYTimes</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>K62YS3AL2A</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>NYTimes.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ac163194-fb23-41a6-ad87-10a830d37a55</string>
+				<key>dateExpires</key>
+				<string>28/10/24</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.waseem.NYTimes</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>K62YS3AL2A</string>
+				<key>name</key>
+				<string>Leonardo Alfaro Hernandez</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

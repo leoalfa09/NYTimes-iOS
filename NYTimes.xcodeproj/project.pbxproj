@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 52;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -338,7 +338,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
-				ORGANIZATIONNAME = "Waseem Akram";
+				ORGANIZATIONNAME = "ITCO Corporation";
 				TargetAttributes = {
 					7557FA7624D0271400F80607 = {
 						CreatedOnToolsVersion = 11.5;
@@ -350,7 +350,7 @@
 				};
 			};
 			buildConfigurationList = 7557FA7224D0271400F80607 /* Build configuration list for PBXProject "NYTimes" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -582,7 +582,7 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"NYTimes/Preview Content\"";
-				DEVELOPMENT_TEAM = 7S7EBZGDA6;
+				DEVELOPMENT_TEAM = K62YS3AL2A;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = NYTimes/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -590,7 +590,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.waseem.NYTimes.example;
+				PRODUCT_BUNDLE_IDENTIFIER = com.waseem.NYTimes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
@@ -605,7 +605,7 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"NYTimes/Preview Content\"";
-				DEVELOPMENT_TEAM = 7S7EBZGDA6;
+				DEVELOPMENT_TEAM = K62YS3AL2A;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = NYTimes/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -613,7 +613,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.waseem.NYTimes.example;
+				PRODUCT_BUNDLE_IDENTIFIER = com.waseem.NYTimes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
